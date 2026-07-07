@@ -1,5 +1,7 @@
 ### Финансовый обзор ресторана февраль 2026
-<iframe title="ТЗ_Italy_Шишкова_Наталья" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiN2JkMDFkN2MtZDY0NS00ZDZkLWJmMDUtNGRjMTRiMzQ4ZTlkIiwidCI6ImFmZDZiMTk4LTMxZjEtNDM1OC1iYjA0LWIxODE5NWViOWQwMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
+[Открыть интерактивный отчет Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2JkMDFkN2MtZDY0NS00ZDZkLWJmMDUtNGRjMTRiMzQ4ZTlkIiwidCI6ImFmZDZiMTk4LTMxZjEtNDM1OC1iYjA0LWIxODE5NWViOWQwMiIsImMiOjEwfQ%3D%3D)
+
 
 ![4](Итали.png)
 
