@@ -1,4 +1,4 @@
-### Финансовый обзор ресторана февраль 2026
+### Финансовый обзор ресторана 
 
 [Открыть интерактивный отчет Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2JkMDFkN2MtZDY0NS00ZDZkLWJmMDUtNGRjMTRiMzQ4ZTlkIiwidCI6ImFmZDZiMTk4LTMxZjEtNDM1OC1iYjA0LWIxODE5NWViOWQwMiIsImMiOjEwfQ%3D%3D)
 
